@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=CS+Undergrad+%40+SIT+Tumkur+%7C+Batch+of+%2727;Full-Stack+Dev+%7C+AI+%2F+ML+Builder+%7C+UAV+Systems;Top+20+%40+IIT+Bombay+Techfest+%E2%9C%88%EF%B8%8F;SIH+Top+5+%7C+TEDx+Sponsorship+Lead;Currently+Building+in+Public+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=CS+Undergrad+%40+SIT+Tumkur+%7C+Batch+of+%2727;Full-Stack+Dev+%7C+AI+%2F+ML+Builder+%7C+UAV+Systems;Top+20+%40+IIT+Bombay+Techfest+%E2%9C%88%EF%B8%8F;SIH+Top+5+%7C+TEDx+Lead+Sponsorship;Currently+Building+in+Public+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
