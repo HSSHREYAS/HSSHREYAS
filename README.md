@@ -125,10 +125,11 @@ currently  : Building MatsyaMitra+ | Flying drones | Grinding DSA
 
 | 🥇 | Achievement |
 |---|---|
-| ✈️ | **Top 20** — IIT Bombay Techfest UAV Competition *(Team Soaring Eagles, SAE India)* |
-| 💡 | **Top 5 Teams** — Smart India Hackathon (SIH) Internal Round |
-| 🎤 | **Sponsorship Lead** — TEDx SIT *(Led 40+ team, 200+ attendees)* |
-| 📜 | Certified in **C/C++, DSA & Problem Solving** — CodeChef & GeeksforGeeks |
+| 🏆 | IIT Bombay Techfest UAV Competition|
+| 🛸 | NIDAR — National Autonomous Drone Challenge|
+| ✈️ | ADDC — SRM Chennai|
+| 🛩️ | Aerothon — National Aerospace Design Challenge|
+| 🎓 | Conducted drone-building & automation workshop for juniors|
 
 ---
 
@@ -155,7 +156,7 @@ currently  : Building MatsyaMitra+ | Flying drones | Grinding DSA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hsshreyas)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HSSHREYAS)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/hsshreyas)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/hsshreyas2005)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/hsshreyas)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hsshreyas2005@gmail.com)
 
