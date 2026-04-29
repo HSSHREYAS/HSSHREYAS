@@ -1,16 +1,13 @@
-## Hi there 👋
+# Profile README
 
-<!--
-**HSSHREYAS/HSSHREYAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! This is a place where I showcase my projects and contributions. Feel free to explore the repositories and reach out if you have any questions.
 
-Here are some ideas to get you started:
+## Projects
+- Project 1: Description of project 1.
+- Project 2: Description of project 2.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+- [LinkedIn](https://www.linkedin.com)
+- [Twitter](https://twitter.com)
+
+Thank you for visiting!
